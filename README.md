@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmad Ibrahim
 
-### Cybersecurity Engineer • Software Engineer • Security Researcher 
+### Cybersecurity Analyst • Software Engineer • Security Researcher 
 
 I build and secure digital systems across the **application, API, infrastructure, and cloud layers**.
 
